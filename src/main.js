@@ -7,6 +7,7 @@ import App from './App'
 import Vueresource from 'vue-resource'
 Vue.use(ElementUI)
 Vue.use(Vueresource)
+let a ;
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
